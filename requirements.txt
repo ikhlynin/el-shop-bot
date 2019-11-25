@@ -13,8 +13,6 @@ PyInstaller==3.5
 pypiwin32==223
 PySide2==5.13.2
 python-telegram-bot==12.2.0
-pywin32==225
-pywin32-ctypes==0.2.0
 requests==2.22.0
 shiboken2==5.13.2
 six==1.13.0
